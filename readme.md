@@ -4,6 +4,10 @@
 
 사용자들은 제품을 주문할 수 있으며, 주문된 제품에 대해 결제가 이루어집니다.
 
+## Git Repository URL
+
+https://github.com/myeongjin-song/my-cafe
+
 ## 기술 스택
 
 - **Java 17**
